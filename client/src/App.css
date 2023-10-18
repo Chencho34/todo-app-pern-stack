@@ -1,0 +1,6 @@
+.not__found {
+  height: calc(100vh -  65px);
+  background-image: url('../../client/src/assets/bg.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
