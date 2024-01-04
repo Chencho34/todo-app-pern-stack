@@ -10,9 +10,10 @@ export default function App() {
     <>
       <Navbar />
       <Routes>
-        <Route index path='/' element={<Tasks /> } />
-        <Route path='/tasksform' element={<TasksForm /> } />
-        <Route path='*' element={<NotFound /> } />
+        <Route index path='/' element={<Tasks />} />
+        <Route path='/tasksform' element={<TasksForm />} />
+        <Route path='/tasks/:id/edit' element={<TasksForm />} />
+        <Route path='*' element={<NotFound />} />
       </Routes>
     </>
   )
