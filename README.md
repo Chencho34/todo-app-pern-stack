@@ -10,7 +10,7 @@ This project is a task manager (To-Do List) with a simple interface that allows 
 
 * CRUD operations.
 * Server side with Node.js, Express and PostgreSQL.
-* CLient side wirh React, React Router Dom and MaterialUI.
+* CLient side with React, React Router Dom and MaterialUI.
 * API REST.
 
 ## Screenshots
