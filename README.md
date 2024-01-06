@@ -9,13 +9,15 @@ This project is a task manager (To-Do List) with a simple interface that allows 
 ## Characteristics
 
 * CRUD operations.
-* Implemented backend with Node.js, Express and PostgreSQL.
+* Server side with Node.js, Express and PostgreSQL.
+* CLient side wirh React, React Router Dom and MaterialUI.
 * API REST.
 
 ## Screenshots
 
 ![todo-cap](public/screenshots/todo-cap-01.png)
 ![todo-cap](public/screenshots/todo-cap-02.png)
+![todo-cap](public/screenshots/todo-cap-03.png)
 
 ## Install
 
