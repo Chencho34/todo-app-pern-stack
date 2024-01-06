@@ -1,4 +1,4 @@
-# Login Form | Firebase
+# To-Do List
 
 ## Project Create With React, PostgresSQL, Express y NodeJS
 
@@ -14,7 +14,8 @@ This project is a task manager (To-Do List) with a simple interface that allows 
 
 ## Screenshots
 
-![login-form-cap](public/screenshots/login-form-cap-01.png)
+![todo-cap](public/screenshots/todo-cap-01.png)
+![todo-cap](public/screenshots/todo-cap-02.png)
 
 ## Install
 
